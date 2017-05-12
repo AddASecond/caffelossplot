@@ -1,4 +1,4 @@
-# caffelossplot
+# caffe loss/accuracy plot
 A matlab script to print loss/accuracy value of deep learning process in caffe  
 
 ## example
